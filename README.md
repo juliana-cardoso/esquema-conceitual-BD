@@ -23,3 +23,7 @@ Narrativa:
 • Os mecânicos possuem código, nome, endereço e especialidade;
 
 • Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
+
+• Uma OS pode ser composta por vários serviços e um mesmo serviço pode estar contido em mais de uma OS;
+
+ • Uma OS pode ter vários tipos de peça e uma peça pode estar presente em mais de uma OS.
