@@ -27,3 +27,7 @@ Narrativa:
 • Uma OS pode ser composta por vários serviços e um mesmo serviço pode estar contido em mais de uma OS;
 
  • Uma OS pode ter vários tipos de peça e uma peça pode estar presente em mais de uma OS.
+
+ ![Modelagem oficina mecânica](https://github.com/user-attachments/assets/d10d5281-3135-4827-8ca3-643dc95dc4bf)
+
+
